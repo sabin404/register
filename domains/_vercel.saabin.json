@@ -1,9 +1,10 @@
 
 {
   "owner": {
-    "username": "sabin404"
+    "username": "sabin404",
+    "email": "sabindahal10x@gmail.com"
   },
   "records": {
-    "TXT": "vc-domain-verify=saabin.is-a.dev,b28b4d2228f7037b7181"
+    "TXT": "vc-domain-verify=www.saabin.is-a.dev,20bea3b321724ea659da"
   }
 }
